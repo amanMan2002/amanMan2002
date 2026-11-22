@@ -1,5 +1,14 @@
 # 💫 About Me:
-i m working in boschhh as sde my techhhstack are java backend spring boot and in frotnend react and angular hhhhtml css javascript typescript programming languages cpp,java,python and i also know cloud like AWS <br>
+I am currently working as a **Software Development Engineer (SDE) at Bosch**, specializing in full-stack software development.
+
+My technical expertise includes:
+
+- **Backend Development:** Java, Spring Boot
+- **Frontend Development:** React.js, Angular, HTML, CSS, JavaScript, TypeScript
+- **Programming Languages:** Java, C++, Python
+- **Cloud Technologies:** Amazon Web Services (AWS)
+
+I enjoy building scalable backend systems, developing responsive frontend applications, and exploring cloud technologies to create efficient, reliable, and maintainable software solutions. <br>
 
 
 ## 🌐 Socials:
